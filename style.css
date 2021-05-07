@@ -1,0 +1,80 @@
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+}
+
+.navbar-container {
+    padding: 2rem 0;
+}
+
+.nav-item {
+    padding: 0 1.5rem;
+    font-size: 1.5rem;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#title {
+    background-color: #ff005c;
+    color: white;
+}
+
+.btn-head {
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+}
+
+#features {
+    padding: 2rem 0;
+}
+
+.feature-icon {
+    padding-bottom: 1.2rem;
+}
+
+.feature-icon:hover {
+    color: #ff005c;
+}
+
+#card-demo {
+    padding: 1.5rem 0;
+    margin-bottom: 1rem;
+    background-color: #ff005c;
+    color: white;
+}
+
+.card {
+    background-color: #ff005c;
+}
+
+#footer {
+    padding: 1.5rem 0;
+}
+
+.footer-icons {
+    padding: 0 1rem 1.2rem;
+}
+
+#contact-form{
+    margin-top: 1rem;
+}
+
+@media screen and (max-width: 576px){
+    h1{
+        font-size: 2.5rem;
+    }
+}
